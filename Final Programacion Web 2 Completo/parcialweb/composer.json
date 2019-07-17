@@ -1,0 +1,14 @@
+{
+    "name": "parcial/web",
+    "description": "T.P",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload" :
+    {
+        "psr-4":
+        {
+            "Clases\\": "clases"
+        }
+    }
+}
